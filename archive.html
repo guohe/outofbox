@@ -1,15 +1,12 @@
 ---
 layout: default
-title: 盒外 / 果合的移动开发、产品设计博客
+title: 盒外 / 文章存档 
 ---
 <div class="posts">
   {% for post in site.posts %}
     <div>
       <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
       <p class="post-metainfo"><span class="post-date">{{ post.date | date_to_string }}</span> by <span class="post-author">{{ post.author}}</span></p>
-      <div class="post-content">
-        {{ post.content }}
-      </div>
     </div>
   {% endfor %}
 </div>
