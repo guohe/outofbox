@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>盒外：果合技术博客</title>
+ <link href="http://outofbox.guohead.com/atom.xml" rel="self"/>
+ <link href="http://outofbox.guohead.com/"/>
+ <updated>2011-04-13T23:25:39+08:00</updated>
+ <id>http://outofbox.guohead.com</id>
+ <author>
+   <name>Guohe Team</name>
+   <email>support@guohead.com</email>
+ </author>
+
+ 
+ <entry>
+   <title>This is a test post.</title>
+   <link href="http://outofbox.guohead.com/2011/04/10/this-is-a-test-post.html"/>
+   <updated>2011-04-10T00:00:00+08:00</updated>
+   <id>http://outofbox.guohead.com/2011/04/10/this-is-a-test-post</id>
+   <content type="html">&lt;p&gt;Add a collection to facilitate future shopping. Tags are difficult in Chinese.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Chinese don&amp;#8217;t &lt;a href='http://google.com'&gt;search&lt;/a&gt; - because typing is too hard. Add text labels to items on the front page.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Categories: checkboxes&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Price range&lt;/li&gt;
+
+&lt;li&gt;Gender&lt;/li&gt;
+
+&lt;li&gt;Type&lt;/li&gt;
+
+&lt;li&gt;Brand: personal preferred&lt;/li&gt;
+&lt;/ul&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>A Story About Corporate Blogging</title>
+   <link href="http://outofbox.guohead.com/2010/05/08/a-story-of-corporate-blogging.html"/>
+   <updated>2010-05-08T00:00:00+08:00</updated>
+   <id>http://outofbox.guohead.com/2010/05/08/a-story-of-corporate-blogging</id>
+   <content type="html">&lt;h3 id='the_story'&gt;The Story&lt;/h3&gt;
+
+&lt;p&gt;Thursday morning in Eastern Time, the big boss delivered another &amp;#8220;blog post&amp;#8221;, announcing several &amp;#8220;organizational alignments&amp;#8221;, which were essentially people moving to new places or promoting to new jobs. The announcement was sent to my email inbox, managed by a dedicated maintenance team, several company-owned data centers across the world, and Microsoft Exchange / Outlook software. It is called a &amp;#8220;blog post&amp;#8221; because there is a website on the Intranet which was organized by date, categories and authors, and on which comments were allowed.&lt;/p&gt;
+
+&lt;p&gt;People started to chit-chat around the news, guessing why certain person was or was not promoted or whether the new job fits the person well. It was Thursday afternoon in Europe then, with the mood of espresso. One colleague, originally from U.S., commented: &amp;#8220;I don&amp;#8217;t like the idea of announcing promotions on a blog post. It should be at least a formal email if not a ceremony.&amp;#8221; Another guy responded: &amp;#8220;Why don&amp;#8217;t you post it as comments on the blog?&amp;#8221; Laughters. I tried to crack a joke: &amp;#8220;Maybe your promotion will be announced on a tweet. Who knows?&amp;#8221;&lt;/p&gt;
+
+&lt;h3 id='what_has_gone_wrong'&gt;What Has Gone Wrong?&lt;/h3&gt;
+
+&lt;p&gt;What has gone wrong? Isn&amp;#8217;t this just the normal office gossips as you&amp;#8217;ve seen on the TV shows? Here are my thoughts:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Why are the blog posts delivered on email?&lt;/li&gt;
+
+&lt;li&gt;Why would people think &amp;#8220;blog posts&amp;#8221; are informal?&lt;/li&gt;
+
+&lt;li&gt;Why would people laugh at the idea of posting comments on the blog site?&lt;/li&gt;
+
+&lt;li&gt;What&amp;#8217;s the value of having the blog system in the company where IE 6 is the only supported browser choice?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;There are so many matching issues in the story: infrastructure vs. implementation, management vs. employees, traditions vs. evolution. I believe they all stemmed from one thing: how people are measured. Here might be (very probably) how the system was introduced:&lt;/p&gt;
+
+&lt;h4 id='management'&gt;Management&lt;/h4&gt;
+
+&lt;p&gt;Management thinks of big pictures. The CIO looked around and found the idea of blogging (or pitched by expensive consultants, or read from BusinessWeek, etc.), typically a few years later than it got around the geek community. &amp;#8220;This could be the theme for my next slideshow.&amp;#8221; he figured, &amp;#8220;And it will add points to my incentive package.&amp;#8221; A month later, the executives met at a luxury resort to talk about the future of the company. Blog, along with other shiny new concepts, was promoted to other officers in the frame of &amp;#8220;Next Generation Collaboration&amp;#8221;. CFO challenged on budgeting. Marketing Executive asked about brand value. HR Director thought this could enhance the relationship between senior leadership and staffs. CEO signed off.&lt;/p&gt;
+
+&lt;h4 id='development_and_implementation'&gt;Development and Implementation&lt;/h4&gt;
+
+&lt;p&gt;It spent two years and $5MM to get through seven milestones. When the system was introduced to everyone, social media has taken over the web. But it didn&amp;#8217;t matter.&lt;/p&gt;
+
+&lt;p&gt;Open source solutions were rejected in the very beginning due to &amp;#8220;security concerns&amp;#8221;. The project had to rework the whole system. As there were concerns around the integration with the existing collaborative systems, the blog system had to be seamlessly connected with Single Sign On, email and other things.&lt;/p&gt;
+
+&lt;h4 id='joe'&gt;Joe&lt;/h4&gt;
+
+&lt;p&gt;Joe was a staff who is not that tech-savvy. He knew about blogging but never did any. When the he saw the big banner on the Intranet homepage, he clicked the link and figured &amp;#8220;This should be nothing related to me. I only report to my manager who sits in the office next to my cubicle. Why do I need to blog?&amp;#8221;&lt;/p&gt;
+
+&lt;p&gt;And later on, Joe started to receive emails from the &amp;#8220;blog&amp;#8221;. He could not reply the email as it was the design to control improper comments. It is not so interesting as Dilbert. &amp;#8220;This has nothing to do with me.&amp;#8221;&lt;/p&gt;
+
+&lt;h4 id='david'&gt;David&lt;/h4&gt;
+
+&lt;p&gt;David was a middle manager, who was &amp;#8220;one job away from a executive level position&amp;#8221;. On a training session, he was told that blogging could be a great way to build cohesiveness within the team. He was inspired.&lt;/p&gt;
+
+&lt;p&gt;He came back and created the blog on the Intranet. Every Friday, he spent one hour to write a blog post to wrap up the week. Sometimes, he used it for announcements. &amp;#8220;I used to email my staffs about these, but it was not interactive - nobody wrote back to me. Now people seem to love the idea of blogging.&amp;#8221;&lt;/p&gt;
+
+&lt;p&gt;There were no comments on the blog website though. That was the design. No anonymous comments were allowed.&lt;/p&gt;
+
+&lt;p&gt;HR thought that David &amp;#8220;created an effective channel to communicate with his team and has build a great team culture&amp;#8221;. He was promoted.&lt;/p&gt;
+
+&lt;h3 id='wrap_up'&gt;Wrap Up&lt;/h3&gt;
+
+&lt;p&gt;My questions should be answered in the extended story. I would not call it &amp;#8220;blog&amp;#8221; anymore. It is the same system used for so many years, hierarchical, inefficient, read-only and bureaucratic. It has had different names and looks, but it suffers from the same disease.&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>Jekyll</title>
+   <link href="http://outofbox.guohead.com/2010/05/02/jekyll.html"/>
+   <updated>2010-05-02T00:00:00+08:00</updated>
+   <id>http://outofbox.guohead.com/2010/05/02/jekyll</id>
+   <content type="html">&lt;p&gt;After I migrated to &lt;a href='http://chyrp.net'&gt;Chyrp&lt;/a&gt; last week, I started to love the feeling of writing things in &lt;a href='http://daringfireball.net/projects/markdown/'&gt;markdown&lt;/a&gt;. However, chyrp is not cool enough:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;It is based on PHP thus all the pages are generated dynamically.&lt;/li&gt;
+
+&lt;li&gt;I need to open its backend to write stuffs.&lt;/li&gt;
+
+&lt;li&gt;I have to write in the textarea in the web page. No syntax highlight. No auto save &amp;#8230;&lt;/li&gt;
+
+&lt;li&gt;I failed to set up sqlite3 as database backend for Chyrp on &lt;a href='http://webfaction.com'&gt;WebFaction&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href='http://jekyllrb.com'&gt;Jekyll&lt;/a&gt; came into my radar just as I was thinking about new opportunities. I have been aware of this cool thing for a while. It is the backbone for &lt;a href='http://github.com'&gt;Github&lt;/a&gt; Pages and powers tons of geek weblogs. Comparing to the popular CMS or blog platforms, it is so bareboned in functionality, but it is much more flexible in customization. You have to build the whole thing up from structuring the site and designing the layouts. But it is better than start from scratch to rewrite an excellent &amp;#8220;site generator&amp;#8221; like this.&lt;/p&gt;
+
+&lt;p&gt;There are a good amount of posts on the web for reference. Below are some of them which helped me a lot:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href='http://wiki.github.com/mojombo/jekyll/'&gt;Official Wiki&lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href='http://github.com/mojombo/tpw'&gt;github.com/mojombo/tpw&lt;/a&gt;: examples of site structure and layouts&lt;/li&gt;
+
+&lt;li&gt;&lt;a href='http://github.com/favrik/favrik.com'&gt;favrik.com&lt;/a&gt;: examples of layouts&lt;/li&gt;
+
+&lt;li&gt;&lt;a href='http://github.com/roylez/roylez.github.com'&gt;github.com/roylez&lt;/a&gt;: examples of layouts, especially the &lt;code&gt;index.html&lt;/code&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href='http://forum.webfaction.com/viewtopic.php?id=3852'&gt;WebFaction Forum / Getting Jekyll Up and Running&lt;/a&gt;: set up on webfaction&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;It took me some time to migrate my &lt;a href='http://wordpress.org'&gt;Wordpress&lt;/a&gt; posts to Jekyll. Finally I did this on webfaction side as its mysql and ruby were better configured than my Mac. Chinese posts were all screwed and I haven&amp;#8217;t found a solution yet.&lt;/p&gt;
+
+&lt;p&gt;On deployment, I used the following shell script to sync local site to my server:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;#!/usr/bin/env bash
+jekyll &amp;amp;&amp;amp; rsync -avz --delete _site/ userid@userid.webfactional.com:~/path/to/jekyll&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Most of the process was just reading documentation and following good examples. It took me almost 12 hours to get to this point and I believe there will be endless polishing work in the future.&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>More on Browser Sessions</title>
+   <link href="http://outofbox.guohead.com/2010/04/29/more-on-browser-sessions.html"/>
+   <updated>2010-04-29T00:00:00+08:00</updated>
+   <id>http://outofbox.guohead.com/2010/04/29/more-on-browser-sessions</id>
+   <content type="html">&lt;p&gt;Apparently &lt;a href='/blog/2010/04/26/life-of-browser-sessions.html'&gt;it&lt;/a&gt; was only the start. I had to work on other pieces of my life before getting into more detailed analysis.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src='http://connect.decknetwork.net/i/mix11_logo.jpg' alt='Browser session length by OS type' /&gt;&lt;/p&gt;
+
+&lt;p&gt;The density plot above was grouped by OS type. The &lt;code&gt;avg_session_length&lt;/code&gt; was in hours.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Windows: included various versions of Microsoft Windows&lt;/li&gt;
+
+&lt;li&gt;Mac: included Apple&amp;#8217;s Mac OS X 10.5+ versions&lt;/li&gt;
+
+&lt;li&gt;Others: included Linux, FreeBSD, Sun Solaris and miscellaneous OS&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;It is quite interesting to see Windows users have a shorter browser session length compared to Mac users. One reason I could think of is that Mac never really kills the session but hide it in the background instead. Normal users would not be aware of the underlying difference. This should go with the detailed user operation data to understand the true reason behind.&lt;/p&gt;
+
+&lt;p&gt;Yet more to come.&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>Life of Browser Sessions</title>
+   <link href="http://outofbox.guohead.com/2010/04/26/life-of-browser-sessions.html"/>
+   <updated>2010-04-26T00:00:00+08:00</updated>
+   <id>http://outofbox.guohead.com/2010/04/26/life-of-browser-sessions</id>
+   <content type="html">&lt;p&gt;&lt;img src='/media/images/hist_avg_session_hours_10.png' alt='' /&gt;&lt;/p&gt;
+
+&lt;p&gt;Based on &lt;a href='https://testpilot.mozillalabs.com/testcases/a-week-life/aggregated-data.html'&gt;Mozilla Labs Test Pilot data&lt;/a&gt; using &lt;a href='http://r-project.org'&gt;R&lt;/a&gt; and &lt;a href='http://had.co.nz/ggplot2/'&gt;ggplot2&lt;/a&gt;. There was a long tail cut from the whole graph, though it&amp;#8217;s already interesting to see people keep their browser open for 10+ hours. This is how much this single piece of software weighs in everyone&amp;#8217;s daily life now.&lt;/p&gt;
+
+&lt;p&gt;More on this to come.&lt;/p&gt;</content>
+ </entry>
+ 
+ 
+</feed>
