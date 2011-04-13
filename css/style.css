@@ -103,12 +103,11 @@ ul#nav li a:hover {
 .posts .post-content {
   font-size:15px;
   line-height:24px;
-  padding-bottom:25px;
-  border-bottom:1px solid #EEE;
+  padding-bottom:5px;
 }
 
 .post-content h1,h2,h3,h4,h5,h6,p,ul {
-  padding-bottom:0.5em;
+  margin-bottom:0.5em;
 }
 
 .post-content li {
@@ -136,6 +135,32 @@ ul#nav li a:hover {
 .post-content code {
   font-family:Monaco,"Courier New";
   font-size:90%;
+}
+
+.post-content blockquote {
+  border-left:3px solid #EEE;
+  padding-left:25px;
+} 
+
+.post-content img {
+  border:1px solid #CCC;
+  padding:1px;
+}
+
+.post-comment {
+  padding-bottom:25px;
+  border-bottom:1px solid #EEE;
+  color:#999;
+}
+
+.post-comment a {
+  text-decoration:none;
+  font-size:14px;
+  color:#3166AB;
+}
+
+.post-comment a:hover {
+  background-color:#DEF1FE;
 }
 
 #sidebar {

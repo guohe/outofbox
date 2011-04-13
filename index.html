@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 盒外 / 果合的移动开发、产品设计博客
+title: 果合的移动技术和产品博客
 ---
 <div class="posts">
   {% for post in site.posts %}
@@ -9,6 +9,10 @@ title: 盒外 / 果合的移动开发、产品设计博客
       <p class="post-metainfo"><span class="post-date">{{ post.date | date_to_string }}</span> by <span class="post-author">{{ post.author}}</span></p>
       <div class="post-content">
         {{ post.content }}
+      </div>
+      <div class="post-comment">
+        <a href="javascript:(function(){window.open('http://v.t.sina.com.cn/share/share.php?title='+encodeURIComponent('正在阅读果合技术团队维护的#盒外#博客：{{ post.title }}，来自 @{{ post.author_weibo }} 的精彩分享。@果合移动广告')+'&url='+encodeURIComponent('http://outofbox.guohead.com{{ post.url }}')+'&source=bookmark','_blank','width=450,height=400');})()">分享到微博</a> / 
+        <a href="{{ post.url }}#disqus_thread">参与讨论</a>
       </div>
     </div>
   {% endfor %}
