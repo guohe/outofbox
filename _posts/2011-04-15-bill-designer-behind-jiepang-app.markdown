@@ -58,7 +58,7 @@ author-weibo: neozhang
 
 各种科技博客，好的 app 都会被炒的很热，然后就可以在科技博客中发现。但其实大部分好的 app 都是那些比较老的，它们都会不断改进自己的设计，我觉得这种改进才是真正值得学习的东西。我喜欢在一件事情上反复思考，不断的改变，把设计进化到很好，而不是一拍脑袋想到一个设计。
 
-博客我看得比较多的是 [Engadget](http://engadget.com) 和 [Pour77](http://pour77.com)，这些不一定是谈设计本身，但是可能会有很多想法上的帮助，包括 [TechCrunch](http://techcrunch.com) 都会经常看。
+博客我看得比较多的是 [Engadget](http://engadget.com) 和 [Core77](http://core77.com)，这些不一定是谈设计本身，但是可能会有很多想法上的帮助，包括 [TechCrunch](http://techcrunch.com) 都会经常看。
 
 #### 问：你用什么软件和硬件完成设计工作？你的梦幻配置是什么？
 
