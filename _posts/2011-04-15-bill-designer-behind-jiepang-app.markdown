@@ -71,4 +71,4 @@ author-weibo: neozhang
 
 梦幻配置的话就是全部都是固态硬盘吧，我讨厌等待，我想如果有固态硬盘我可以提高一倍的设计效率。
 
-本文与[懒人有禅](http://lanrenux.com/)联合发表。如果您希望和[盒外](http://outofbox.guohead.com)进行各种形式的合作，请联系[果合团队](mailto:support-outofbox@guohead.com)。
+本文与[懒人有禅](http://lanrenux.com/)联合发表。如果您希望和[盒外](http://outofbox.guohead.com)进行各种形式的合作，请联系[果合团队](mailto:support+outofbox@guohead.com)。
