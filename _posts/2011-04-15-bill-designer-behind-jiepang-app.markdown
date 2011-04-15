@@ -10,7 +10,7 @@ author-weibo: neozhang
 
 #### 问：你觉得最近移动 app 产品设计的发展方向有什么变化？
 
-从 [instagram](http://instagram.com)开始，就很不一样了。因为它把图片当成 feed 的主题，他就变成了说社交事件是用图片一张一张传下来的，就好像给 [Flickr](http://flickr.com) 加上了一个时间线，又像是把 [Facebook](http://facebook.com) 的时间线变成了一张一张的图片。图片变成了一个很重要的部分。
+从 [Instagram](http://instagram.com)开始，就很不一样了。因为这个 app 把图片当成 feed 的主题，就变成了说社交事件是用图片一张一张传下来的，就好像给 [Flickr](http://flickr.com) 加上了一个时间线，又像是把 [Facebook](http://facebook.com) 的时间线变成了一张一张的图片。图片变成了一个很重要的部分。
 
 我觉得这也符合现在智能手机发展的趋势：现在手机都越来越强大了，拍照是一件很自然的事情。在触屏手机打字都不是很方便的情况下，拍照传图就变成很自然的事情。像后来的 [Path](http://path.com) 和 [Color](http://color.com) 都是这一个系列概念的演化。
 
@@ -52,6 +52,8 @@ author-weibo: neozhang
 
 因为我做街旁，所以比较多参考的是社交类的 app。我觉得最完美的是 Facebook 的 iOS app。这个 app 把一些别人认为已经达到完美的功能一步一步去升级，让你觉得说我怎么没有想到这个设计，而 Facebook 的改动就越来越好。比如 Facebook 的搜索，会在点击搜索栏之后就显示 3 种可能的搜索分类，而不是让用户在看到大量的搜索结果后再进行筛选。再比如发送新信息的时候，Facebook 可以做到非常流畅的交互，减少用户等待的时间，可能是 Facebook 的技术比较强大吧。
 
+![Facebook 的搜索功能](/images/04152011/facebook.png)
+
 #### 问：你怎么找到这些好的 app 帮助形成设计？
 
 各种科技博客，好的 app 都会被炒的很热，然后就可以在科技博客中发现。但其实大部分好的 app 都是那些比较老的，它们都会不断改进自己的设计，我觉得这种改进才是真正值得学习的东西。我喜欢在一件事情上反复思考，不断的改变，把设计进化到很好，而不是一拍脑袋想到一个设计。
@@ -68,3 +70,5 @@ author-weibo: neozhang
 - [Skype](http://skype.com) 和 [iChat](http://www.apple.com/macosx/what-is-macosx/ichat.html) 作为即时通讯工具。但是我不喜欢最近的 Skype for Mac 的改变。
 
 梦幻配置的话就是全部都是固态硬盘吧，我讨厌等待，我想如果有固态硬盘我可以提高一倍的设计效率。
+
+本文与[懒人有禅](http://lanrenux.com/)联合发表。如果您希望和[盒外](http://outofbox.guohead.com)进行各种形式的合作，请联系[果合团队](mailto:support-outofbox@guohead.com)。
