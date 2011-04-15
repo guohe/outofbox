@@ -2,6 +2,7 @@
 layout: post
 title: 和街旁设计师刘洋对话
 author: Neo Zhang
+author-weibo: neozhang
 ---
 ![刘洋的照片](/images/04152011/bill.jpeg)
 
