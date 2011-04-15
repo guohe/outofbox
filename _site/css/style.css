@@ -114,6 +114,16 @@ ul#nav li a:hover {
   margin-left:25px;
 }
 
+.post-content em {
+  font-weight:bold;
+  font-style:normal;
+}
+
+.post-content h4 {
+  font-size:16px;
+  margin-top:24px;
+}
+
 .post-content a {
   text-decoration:none;
   color:#3166ab;
