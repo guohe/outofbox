@@ -57,13 +57,15 @@ ul#nav li a:hover {
   height:155px;
 }
 
-.banner h1 {
+.banner div {
   margin:0 auto;
   width:960px;
   height:100%;
-  text-indent:-9999px;
-  background-image:url("../images/header.png");
-  background-repeat:no-repeat;
+}
+
+.banner div a {
+  text-decoration:none;
+  border:none;
 }
 
 #box {
