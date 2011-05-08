@@ -4,7 +4,7 @@ title: 苹果 iAd 的开发者 Jason Ting
 author: Neo Zhang
 author-weibo: neozhang
 ---
-![Jason Ting](images/05072011/jason-ting.png)
+![Jason Ting](/images/05072011/jason-ting.png)
 
 Jason 曾经是一个来自美国加州的 iOS 开发者，他曾经开发了 iPhone 上的手电筒应用，并获得了不错的收益。他在不久前加入了苹果公司，在 iAd 部门负责开发工作。以下是果合团队和他的对话。
 
