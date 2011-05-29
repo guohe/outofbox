@@ -1,12 +1,12 @@
 ---
 layout: post
-title: 杜潇，虾米和知乎背后的设计师
+title: 杜潇，知乎背后的设计师
 author: Neo Zhang
 author-weibo: neozhang
 ---
 ![Dison Du](/images/05292011/dison-du.jpg)
 
-[杜潇](http://twitter.com/disinfeqt)更为人所知的是他的 id disinfeqt，他曾经参与设计了[虾米](http://xiami.com)和[知乎](http://zhihu.com)的 Web 界面。他和 [Neway](http://twitter.com/neway) 组建了一个界面设计团队 [Dine](http://getdine.com)。他最近也参与了一个尚未公布的 iOS app 的设计，以下是盒外博客和他的对话。
+[杜潇](http://twitter.com/disinfeqt)更为人所知的是他的 id disinfeqt，他曾经参与设计了[知乎](http://zhihu.com)的 Web 界面。他和 [Neway](http://twitter.com/neway) 组建了一个界面设计团队 [Dine](http://getdine.com)。他最近也参与了一个尚未公布的 iOS app 的设计，以下是盒外博客和他的对话。
 
 #### 你是说你不是很喜欢为 iOS 设计？
 
