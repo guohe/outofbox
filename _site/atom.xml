@@ -4,7 +4,7 @@
  <title>盒外：果合技术博客</title>
  <link href="http://outofbox.guohead.com/atom.xml" rel="self"/>
  <link href="http://outofbox.guohead.com/"/>
- <updated>2011-05-08T16:00:34+08:00</updated>
+ <updated>2011-06-20T17:15:28+08:00</updated>
  <id>http://outofbox.guohead.com</id>
  <author>
    <name>Guohe Team</name>
@@ -13,11 +13,219 @@
 
  
  <entry>
+   <title>Shawn @ 彩程设计</title>
+   <link href="http://outofbox.guohead.com/2011/06/19/shawn-mycolorway.html"/>
+   <updated>2011-06-19T00:00:00+08:00</updated>
+   <id>http://outofbox.guohead.com/2011/06/19/shawn-mycolorway</id>
+   <content type="html">&lt;p&gt;&lt;img src='/images/06192011/shawn-xiao.jpg' alt='Shawn Xiao' /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href='http://ezse.com/'&gt;Shawn&lt;/a&gt; 来自于国内交互设计团队&lt;a href='http://mycolorway.com'&gt;彩程设计&lt;/a&gt;。他是一个不折不扣的技术派，设计开发了数个 iOS 的应用。也同时精于交互设计，提出了很多关于移动应用设计方面的&lt;a href='http://blog.mycolorway.com/2011/06/16/ued-for-ios/'&gt;精彩见解&lt;/a&gt;。同时，他还喜欢自己制作音乐、远足和品茗。你会在下面的访谈中看到他对移动应用开发和产品设计方面的见解。&lt;/p&gt;
+
+&lt;h4 id='id13'&gt;你怎样得到应用的设计灵感的？&lt;/h4&gt;
+
+&lt;p&gt;两方面吧，一方面是通过多看别人的作品，并且不限于同类作品。一张CD封面，一幅油画,一张照片都有可能成为设计的初始灵感。另一方面就是大自然了。我很喜欢徒步去无人的高山中住上几天，保持所有的事情都以简单的状态存在，也许这是我的另一个灵感之源吧。&lt;/p&gt;
+
+&lt;h4 id='id14'&gt;你的设计或者开发流程是什么？&lt;/h4&gt;
+
+&lt;p&gt;我们的开发流程分为几个步骤：概念 &amp;gt; 低保真原型设计 &amp;gt; 高保真原型设计 &amp;gt; 交互原型设计 &amp;gt; 编码测试。至于编码和测试，任何一本从0开始学XXX的书都会花很大的篇幅介绍这方面，我就不浪费口舌了。&lt;/p&gt;
+
+&lt;p&gt;在我们的流程中，简单地介绍一下：&lt;/p&gt;
+
+&lt;p&gt;1 - 概念设计首先是个发散的过程，我们会不考虑任何约束（无论是营销、设计还是开发）的情况下设想功能。通常这个阶段的结果就是一个&amp;#8221;要你命3000&amp;#8221;级的概念（当然，这不是产品）。其次是个收敛过程，我们会选定一个痛点（没错，只选一个），然后把所有的发散聚焦到这个痛点上。若有不能聚焦的部分，就砍掉这部分。&lt;/p&gt;
+
+&lt;p&gt;2 - 低保真原型设计是把概念设计落实到实处的一步。这步决定了每个特征页面上的信息元素，以及特征页之间的关系。这步十分重要,因为它决定了这个产品最终该怎么耍。&lt;/p&gt;
+
+&lt;p&gt;3 - 高保真原型设计是通常意义上的视觉设计。它最终决定了产品是什么色系，长什么样。&lt;/p&gt;
+
+&lt;p&gt;4 - 交互原型设计是把高保真原型的结果放到实际设备中，拿在手上实际操作。这步会发现很多视觉上的设计错误，例如按钮的大小是否合适，按钮的位置是否合适。等等。&lt;/p&gt;
+
+&lt;p&gt;概括一下，概念设计决定了产品的精，低保决定了产品的神，而高保决定的是产品的皮肉，最终交互原型让她活起来。&lt;/p&gt;
+
+&lt;h4 id='id15'&gt;你给应用开发者的三个建议是什么？&lt;/h4&gt;
+
+&lt;p&gt;1 - 有且只有一个重点。详情在&lt;a href='http://blog.mycolorway.com/2011/06/16/ued-for-ios/'&gt;《iOS App 体验设计》&lt;/a&gt;这篇文章中提到。&lt;/p&gt;
+
+&lt;p&gt;2 - 先设计后编码。即便是看起来这个应用是多么的简单。&lt;/p&gt;
+
+&lt;p&gt;3 - 扩展知识面。设计的哲学是一个产品的灵魂，而灵魂不是由C++或ASM获得的，而是也许完全不相关的东西（例如音乐）。&lt;/p&gt;
+
+&lt;h4 id='_iphone_'&gt;你的 iPhone 的首页上有什么（你最常用的应用是什么）？&lt;/h4&gt;
+
+&lt;p&gt;系统工具：备忘录、Mail、日历、音乐 其他的有：&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href='http://reederapp.com'&gt;Reeder&lt;/a&gt; （看RSS利器，设计十分棒）&lt;/li&gt;
+
+&lt;li&gt;&lt;a href='http://evernote.com'&gt;Evernote&lt;/a&gt; （绝对的天天使用）&lt;/li&gt;
+
+&lt;li&gt;&lt;a href='http://weibo.com'&gt;微博&lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href='http://weixin.qq.com/'&gt;微信&lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href='http://itunes.apple.com/us/app/photosynth/id430065256?mt=8'&gt;Photosynth&lt;/a&gt; （全景图拍摄工具）&lt;/li&gt;
+
+&lt;li&gt;&lt;a href='http://itunes.apple.com/us/app/keynote-remote/id300719251?mt=8'&gt;Keynote Remote&lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href='http://www.wunderlist.com/'&gt;Wunderlist&lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;ProtoView （还没上线，我自己做的提高设计效率的小工具 ^^）&lt;/li&gt;
+
+&lt;li&gt;&lt;a href='http://itunes.apple.com/us/app/doodle-jump-be-warned-insanely/id307727765?mt=8'&gt;DoodleJump&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id='id16'&gt;你最喜欢读什么（博客和书）？&lt;/h4&gt;
+
+&lt;p&gt;我喜欢读的都不是一些技术性的（当然我也读技术性的，但并不能算喜欢）而是一些设计和哲学方面的。博客不太固定，但是比较喜欢 &lt;a href='http://smashingmagzine.com'&gt;Smashing Magazine&lt;/a&gt;、&lt;a href='http://37signals.com/svn'&gt;Signal vs. Noise&lt;/a&gt;、&lt;a href='http://sivers.org'&gt;Derek Sivers&lt;/a&gt;。其他的一些就不相关了，例如音乐方面的。&lt;/p&gt;
+
+&lt;p&gt;关于书，和行业相关的：&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href='http://book.douban.com/subject/3302555/'&gt;Zen of Palm&lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href='http://www.amazon.com/About-Face-Essentials-Interaction-Design/dp/0470084111'&gt;About Face&lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href='http://gettingreal.37signals.com/'&gt;Getting Real&lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href='http://37signals.com/rework/'&gt;Rework&lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href='http://www.amazon.com/Design-Everyday-Things-Donald-Norman/dp/0385267746'&gt;The Design of Everyday Things&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;不太好把喜欢的书全罗列出来，和彩程设计的其他人比起来，我读书并不太多。&lt;/p&gt;
+
+&lt;h4 id='id17'&gt;你是如何发现优秀应用的？&lt;/h4&gt;
+
+&lt;p&gt;一般是逛 App Store疯狂下载试用，或者通过 RSS 订阅中发现。我订阅了一些 App 设计师的博客，例如 &lt;a href='http://taptaptap.com/'&gt;TapTapTap&lt;/a&gt; 的设计师 &lt;a href='http://devinsheaven.com'&gt;Devin&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id='id18'&gt;你工作用的软件和硬件是什么？&lt;/h4&gt;
+
+&lt;p&gt;软件：&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Adobe: &lt;a href='http://www.adobe.com/products/photoshop.html'&gt;Photoshop&lt;/a&gt;, &lt;a href='http://www.adobe.com/products/illustrator.html'&gt;Illustrator&lt;/a&gt;, &lt;a href='http://www.adobe.com/products/aftereffect.html'&gt;After Effect&lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;Apple: &lt;a href='http://developer.apple.com/technologies/xcode.html'&gt;XCode&lt;/a&gt;, &lt;a href='http://www.apple.com/logicstudio/logicpro/'&gt;Logic Pro&lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href='http://www.ableton.com/'&gt;Ableton Live&lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href='http://www.telestream.net/screen-flow/overview.htm'&gt;ScreenFlow&lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href='http://macrabbit.com/espresso/'&gt;Espresso&lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;ProtoView for Mac (即将上线)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;硬件：&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;MacBook Pro&lt;/li&gt;
+
+&lt;li&gt;MacBook Pro（黑色版）&lt;/li&gt;
+
+&lt;li&gt;Dell U2410&lt;/li&gt;
+
+&lt;li&gt;Apple Trackpad（我已经很久没有用鼠标了）&lt;/li&gt;
+
+&lt;li&gt;&lt;a href='http://www.m-audio.com/products/en_au/ProFire610.html'&gt;M-Audio ProFire610&lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href='http://www.akaipro.com/apc40'&gt;AKAI APC40&lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href='http://www.roland.com/products/en/A-800PRO/'&gt;Roland A-800Pro&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id='_android__ios'&gt;你如何比较不同的移动操作系统平台的产品开发的差别（尤其是 Android 和 iOS）?&lt;/h4&gt;
+
+&lt;p&gt;其实，我到是没有觉得操作系统会给产品的设计方法带来差异。毕竟产品的设计是针对人的，而不是针对所使用的技术。喝豆浆的时候，人们都关心的是豆浆好不好喝，谁会管是机器研磨的还是用磨推的呢？我认为在产品的设计也不应该去关心技术本身。虽然产品设计会受限于技术，但是技术不是前提。&lt;/p&gt;
+
+&lt;p&gt;至于要对比 Android 和 iOS 的话，有个有趣的现象： Google 是技术引导型的公司，Apple 是设计（或者说体验）引导型的公司。这种基因会传递给他们的产品，例如 Android 是技术引导型的，而 iOS 是设计引导型的。更有意思的是，随之两个平台吸引了不同的人群：Android 被很多技术人员追捧，而 iOS 吸引的更多是设计师。于是两个平台的产品就天生性地带有一类气质。&lt;/p&gt;
+
+&lt;p&gt;作为一个技术的 fans，我很喜欢 Android，喜欢开源，喜欢所有可以折腾的东西。但是如果当我作为一个产品设计师的时候,我反感这一切。毕竟在吃包子的时候，使用了更先进的技术生产的包子并不能改变你在味觉上的体验。同样地，那我们到底是在吃包子呢？还是在吃包子的生产技术？ 我认为这是个关键。&lt;/p&gt;
+
+&lt;p&gt;因此，如果把 iOS 比喻成 Leica M3，Android 比喻成 Canon 5D，而我是摄影师的话，我当然希望大家欣赏的是我的摄影作品，而不是我摄影所用的 Leica M3。&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>杜潇，知乎背后的设计师</title>
+   <link href="http://outofbox.guohead.com/2011/05/29/dison-designer-behind-zhihu.html"/>
+   <updated>2011-05-29T00:00:00+08:00</updated>
+   <id>http://outofbox.guohead.com/2011/05/29/dison-designer-behind-zhihu</id>
+   <content type="html">&lt;p&gt;&lt;img src='/images/05292011/dison-du.jpg' alt='Dison Du' /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href='http://twitter.com/disinfeqt'&gt;杜潇&lt;/a&gt;更为人所知的是他的 id disinfeqt，他曾经参与设计了&lt;a href='http://zhihu.com'&gt;知乎&lt;/a&gt;的 Web 界面。他和 &lt;a href='http://twitter.com/neway'&gt;Neway&lt;/a&gt; 组建了一个界面设计团队 &lt;a href='http://getdine.com'&gt;Dine&lt;/a&gt;。他最近也参与了一个尚未公布的 iOS app 的设计，以下是盒外博客和他的对话。&lt;/p&gt;
+
+&lt;h4 id='_ios_'&gt;你是说你不是很喜欢为 iOS 设计？&lt;/h4&gt;
+
+&lt;p&gt;对。可能是因为如果你要做一个比较标准的 app，就是那种每个人每天都要用的，你就要按照 HIG 的标准设计，这个多宽，多高，按钮有多大。设计师只能在小范围内有所发挥，就不可能天马行空。虽然说这样的标准不是强制的，虽然很多反 HIG 的设计也存在，但是我仍然觉得无形中有一种束缚，不是特别自由，并且是为一个小尺寸的设备设计，这种感觉很不好，很压抑。&lt;/p&gt;
+
+&lt;h4 id='_hig_'&gt;你怎么看待 HIG 这样的设计标准？&lt;/h4&gt;
+
+&lt;p&gt;我认为它是一坨屎。&lt;/p&gt;
+
+&lt;h4 id='_hig'&gt;如果是你在做设计，你可能根本不会在乎 HIG？&lt;/h4&gt;
+
+&lt;p&gt;其实如果你看苹果自己的产品，很多设计也是突破常规的。比如 iTunes 窗口的三个竖排按钮（关闭、最大化和最小化），在苹果之前没有人会这样设计，但是苹果还是这样做出来。现在有这样自相矛盾的事情，设计师就很难遵循一样的标准。&lt;/p&gt;
+
+&lt;h4 id='_mac_os_x_lion_'&gt;你怎么看 Mac OS X Lion 里面的窗口滚动变成“反向”的了？&lt;/h4&gt;
+
+&lt;p&gt;我刚刚在朋友的 MacBook Air 上试用过，大概三秒钟就适应了。其实，苹果把 iOS 上的 Viewport 概念移植到了 Mac OS X 上。你可以把你的 iPhone 当作一个透明的框，只有透过这个透明的框才能看到后面的东西，其它地方都看不到。现在到了 Lion 上，苹果把这个概念贯彻了。同样是一个网页，在 iOS 上是往下滑，在 OS X 上是往上滑，苹果现在在为自己铺路，未来这两个 OS 会越来越趋近。&lt;/p&gt;
+
+&lt;h4 id='id11'&gt;你用苹果哪些东西？&lt;/h4&gt;
+
+&lt;p&gt;基本上都有。但是，我对 iPad 不是特别喜欢。不过我妈喜欢用它看视频。&lt;/p&gt;
+
+&lt;h4 id='_iphone_app'&gt;你怎么发现新的 iPhone app？&lt;/h4&gt;
+
+&lt;p&gt;主要是通过 Twitter 或者国外设计师同行的网站。他们中的一些人很活跃，我主要看他们的推荐。或者是我们几个好朋友有一个 Talkbox 的群组，用来互相推荐。&lt;/p&gt;
+
+&lt;h4 id='_app_'&gt;最近有什么好的 app 推荐？&lt;/h4&gt;
+
+&lt;p&gt;我觉得就是 &lt;a href='http://www.talkboxapp.com'&gt;Talkbox&lt;/a&gt;。&lt;/p&gt;
+
+&lt;h4 id='_android_'&gt;你之前用过 Android 的设备吗？&lt;/h4&gt;
+
+&lt;p&gt;我之前用过 HTC Hero。&lt;/p&gt;
+
+&lt;h4 id='android__ios_'&gt;Android 和 iOS 两个平台对比，你觉得前者有任何优势吗？&lt;/h4&gt;
+
+&lt;p&gt;我觉得 Android 的优势在于对 Google 服务的集成，除此之外没有任何优势。Android 上的 app 质量良莠不齐，几乎没有设计的底线。有些 app 可能超好用，但是全是原生的控件拼出来的。因为 Android 本身的特性就决定了可能 app 并不需要很好的 UI。比如，Market Enabler（用来激活 Android Market），可以说丑到爆，但是用起来很好用。这样就可能出现一个差的设计可能比一个大手笔的设计更实用的情况。而 iOS 就不大可能出现一个只有用但不好看的东西。&lt;/p&gt;
+
+&lt;h4 id='_android_app_'&gt;你认为 Android app 质量良莠不齐的原因是什么？&lt;/h4&gt;
+
+&lt;p&gt;我觉得是 Google 本身的一些问题。Android 系统本身过于开放，版本多，用户体验不一致，软件商店也很多，甚至不需要软件商店也可以安装软件，这样的分裂导致什么样的软件都可以上架分发。相比而言，iOS 的门槛比较高：Developer Program 的收费，Objective-C 和需要用 Mac 进行开发，把这个门槛提高到一个水平。&lt;/p&gt;
+
+&lt;h4 id='id12'&gt;你用什么硬件和软件完成你的工作？&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;13 寸的 MacBook Pro：我其实非常希望能用 iMac 在家，加上一个 MacBook Air 到处走&lt;/li&gt;
+
+&lt;li&gt;22 寸的外接显示器&lt;/li&gt;
+
+&lt;li&gt;Apple Wireless Mouse / Keyboard - 西部数据的移动硬盘&lt;/li&gt;
+
+&lt;li&gt;&lt;a href='http://www.adobe.com/products/photoshopfamily.html'&gt;Adobe Photoshop&lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href='http://macrabbit.com/espresso/'&gt;Espresso&lt;/a&gt;：它比 &lt;a href='http://www.panic.com/coda/'&gt;Coda&lt;/a&gt; 快一些，Coda 上有些功能比如 FTP 我其实从来不用&lt;/li&gt;
+
+&lt;li&gt;Google Chrome&lt;/li&gt;
+
+&lt;li&gt;&lt;a href='http://notational.net/'&gt;Notational Velocity&lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href='http://www.getbaseapp.com/'&gt;Baseapp&lt;/a&gt;：一个 &lt;a href='http://basecamphq.com'&gt;Basecamp&lt;/a&gt; 的 Mac 客户端&lt;/li&gt;
+
+&lt;li&gt;&lt;a href='http://idzr.org'&gt;idzr.org&lt;/a&gt;：是一个香港团队做的类似 Cloudapp 的服务，但只邀请设计师&lt;/li&gt;
+
+&lt;li&gt;&lt;a href='http://sparrowapp.com'&gt;Sparrow&lt;/a&gt; 邮件客户端&lt;/li&gt;
+
+&lt;li&gt;&lt;a href='http://adium.im/'&gt;Adium&lt;/a&gt; 聊天客户端&lt;/li&gt;
+&lt;/ul&gt;</content>
+ </entry>
+ 
+ <entry>
    <title>苹果 iAd 的开发者 Jason Ting</title>
    <link href="http://outofbox.guohead.com/2011/05/07/jason-apple-iad-designer.html"/>
    <updated>2011-05-07T00:00:00+08:00</updated>
    <id>http://outofbox.guohead.com/2011/05/07/jason-apple-iad-designer</id>
-   <content type="html">&lt;p&gt;&lt;img src='images/05072011/jason-ting.png' alt='Jason Ting' /&gt;&lt;/p&gt;
+   <content type="html">&lt;p&gt;&lt;img src='/images/05072011/jason-ting.png' alt='Jason Ting' /&gt;&lt;/p&gt;
 
 &lt;p&gt;Jason 曾经是一个来自美国加州的 iOS 开发者，他曾经开发了 iPhone 上的手电筒应用，并获得了不错的收益。他在不久前加入了苹果公司，在 iAd 部门负责开发工作。以下是果合团队和他的对话。&lt;/p&gt;
 
