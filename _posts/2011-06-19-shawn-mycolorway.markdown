@@ -16,20 +16,17 @@ author-weibo: neozhang
 我们的开发流程分为几个步骤：概念 > 低保真原型设计 > 高保真原型设计 > 交互原型设计 > 编码测试。至于编码和测试，任何一本从0开始学XXX的书都会花很大的篇幅介绍这方面，我就不浪费口舌了。
 
 在我们的流程中，简单地介绍一下：
+
 1. 概念设计首先是个发散的过程，我们会不考虑任何约束（无论是营销、设计还是开发）的情况下设想功能。通常这个阶段的结果就是一个"要你命3000"级的概念（当然，这不是产品）。其次是个收敛过程，我们会选定一个痛点（没错，只选一个），然后把所有的发散聚焦到这个痛点上。若有不能聚焦的部分，就砍掉这部分。
-
 2. 低保真原型设计是把概念设计落实到实处的一步。这步决定了每个特征页面上的信息元素，以及特征页之间的关系。 这步十分重要，因为它决定了这个产品最终该怎么耍。
-
 3. 高保真原型设计是通常意义上的视觉设计。它最终决定了产品是什么色系，长什么样。
-
 4. 交互原型设计是把高保真原型的结果放到实际设备中，拿在手上实际操作。这步会发现很多视觉上的设计错误，例如按钮的大小是否合适，按钮的位置是否合适。等等。
 概括一下，概念设计决定了产品的精，低保决定了产品的神，而高保决定的是产品的皮肉，最终交互原型让她活起来。
 #### 你给应用开发者的三个建议是什么？
+
 1. 有且只有一个重点。详情在[《iOS App 体验设计》](http://blog.mycolorway.com/2011/06/16/ued-for-ios/) 这篇文章中提到。
-
 2. 先设计后编码。 即便是看起来这个应用是多么的简单。
-
-3. 扩展知识面。 设计的哲学是一个产品的灵魂，而灵魂不是由C++或ASM获得的，而是也许完全不相关的东西（例如音乐）。 
+3. 扩展知识面。设计的哲学是一个产品的灵魂，而灵魂不是由C++或ASM获得的，而是也许完全不相关的东西（例如音乐）。 
 
 #### 你的 iPhone 的首页上有什么（你最常用的应用是什么）？
 系统工具：备忘录、Mail、日历、音乐
@@ -48,11 +45,11 @@ author-weibo: neozhang
 我喜欢读的都不是一些技术性的（当然我也读技术性的，但并不能算喜欢）而是一些设计和哲学方面的。博客不太固定，但是比较喜欢 [Smashing Magazine](http://smashingmagzine.com)、[Signal vs. Noise](http://37signals.com/svn)、[Derek Sivers](http://sivers.org)。其他的一些就不相关了，例如音乐方面的。
 
 关于书，和行业相关的：
-* Zen of Palm
-* About Face
-* Getting Real
-* Rework
-* The Design of Everyday Things
+* [Zen of Palm](http://book.douban.com/subject/3302555/)
+* [About Face](http://www.amazon.com/About-Face-Essentials-Interaction-Design/dp/0470084111)
+* [Getting Real](http://gettingreal.37signals.com/)
+* [Rework](http://37signals.com/rework/)
+* [The Design of Everyday Things](http://www.amazon.com/Design-Everyday-Things-Donald-Norman/dp/0385267746)
 
 不太好把喜欢的书全罗列出来，和彩程设计的其他人比起来，我读书并不太多。
 
