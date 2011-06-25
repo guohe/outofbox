@@ -45,7 +45,7 @@ author-weibo: neozhang
 * [Photosynth](http://itunes.apple.com/us/app/photosynth/id430065256?mt=8) （全景图拍摄工具）
 * [Keynote Remote](http://itunes.apple.com/us/app/keynote-remote/id300719251?mt=8)
 * [Wunderlist](http://www.wunderlist.com/)
-* ProtoView （还没上线，我自己做的提高设计效率的小工具 ^^）
+* [ProtoView](http://ezse.com/protoview/)
 * [DoodleJump](http://itunes.apple.com/us/app/doodle-jump-be-warned-insanely/id307727765?mt=8)
 
 #### 你最喜欢读什么（博客和书）？
@@ -71,7 +71,7 @@ author-weibo: neozhang
 * [Ableton Live](http://www.ableton.com/)
 * [ScreenFlow](http://www.telestream.net/screen-flow/overview.htm)
 * [Espresso](http://macrabbit.com/espresso/)
-* ProtoView for Mac (即将上线)
+* [ProtoView for Mac](http://ezse.com/protoview/)
 
 硬件：
 * MacBook Pro
