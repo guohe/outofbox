@@ -38,6 +38,10 @@ ul#nav li {
   border-top:3px solid #FFF;
 }
 
+.subscribe_tab {
+  border-top:3px solid #993333;
+}
+
 ul#nav li a {
   display:block;
   text-decoration:none;
@@ -176,6 +180,7 @@ ul#nav li a:hover {
 }
 
 #sidebar {
+  display:none;
   float:left;
   width:80px;
   margin-left:130px;
@@ -205,6 +210,21 @@ ul#nav li a:hover {
   color:#00588A;
   border:none;
   background-color:#DEF1FE;
+}
+
+#pagination {
+  clear:both;
+  padding-top:15px;
+}
+
+#pagination ol {
+  list-style-type:none;
+  display:inline;
+}
+
+#pagination ol li {
+  list-style-type:none;
+  display:inline;
 }
 
 

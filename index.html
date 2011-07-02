@@ -1,9 +1,9 @@
 ---
 layout: default
-title: 果合的移动技术和产品博客
+title: We blog about app makers here.
 ---
 <div class="posts">
-  {% for post in site.posts %}
+  {% for post in paginator.posts %}
     <div>
       <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
       <p class="post-metainfo"><span class="post-date">{{ post.date | date_to_string }}</span> by <span class="post-author">{{ post.author}}</span></p>
@@ -11,9 +11,29 @@ title: 果合的移动技术和产品博客
         {{ post.content }}
       </div>
       <div class="post-comment">
-        <a href="javascript:(function(){window.open('http://v.t.sina.com.cn/share/share.php?title='+encodeURIComponent('正在阅读果合技术团队维护的#盒外#博客：{{ post.title }}，来自 @{{ post.author-weibo }} 的精彩分享。@果合移动广告')+'&url='+encodeURIComponent('http://outofbox.guohead.com{{ post.url }}')+'&source=bookmark','_blank','width=450,height=400');})()">分享到微博</a> / 
+        <a href="javascript:(function(){window.open('http://v.t.sina.com.cn/share/share.php?title='+encodeURIComponent('正在阅读果合团队维护的#盒外#博客：{{ post.title }}，来自 @{{ post.author-weibo }} 的精彩分享。@果合移动广告')+'&url='+encodeURIComponent('http://outofbox.guohead.com{{ post.url }}')+'&source=bookmark','_blank','width=450,height=400');})()">分享到微博</a> / 
         <a href="{{ post.url }}#disqus_thread">参与讨论</a>
       </div>
     </div>
   {% endfor %}
+
+  {% if paginator.total_pages > 1 %}
+  <div id="pagination">
+      <ol>
+        {% for page in (1..paginator.total_pages) %}
+        <li>
+          {% if page == paginator.page %}
+            <img src="/images/page-active.png" title="第 {{ page }} 页" />
+          {% else %}
+            {% if page > 1 %}
+            <a href="/page{{ page }}" title="第 {{ page }} 页"><img src="/images/page-inactive.png" /></a>
+            {% else %}
+            <a href="/" title="第 {{ page }} 页"><img src="/images/page-inactive.png" /></a>
+            {% endif %}
+          {% endif %}
+        </li>
+        {% endfor %}
+      </ol>
+  </div>
+  {% endif %}
 </div>

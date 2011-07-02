@@ -1,2 +1,3 @@
 safe: true
 pygments: false
+paginate: 3
