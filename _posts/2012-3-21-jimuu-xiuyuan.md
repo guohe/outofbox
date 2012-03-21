@@ -15,7 +15,8 @@ author-weibo: neozhang
 找痛点，快开发，多尝试。
 
 #### 你手机的首屏上有什么（你最常用的应用是什么）？
-* [微博](http://weibo.com)* [Path](http://path.com)
+* [微博](http://weibo.com)
+* [Path](http://path.com)
 * iPod
 
 #### 你最喜欢读什么（博客和书）？
@@ -23,5 +24,6 @@ author-weibo: neozhang
 #### 你是如何发现优秀应用的？
 多半来自朋友的推荐，很少主动去寻找点什么。常用的还是那几个。
 
-#### 你工作时使用什么软件和硬件？* 硬件：[MacBook Air](http://www.apple.com/macbookair/) + [Dell 显示器](http://accessories.ap.dell.com/sna/category.aspx?c=cn&category_id=4009&cs=cngen1&l=zh&s=bsd&~ck=mn)
+#### 你工作时使用什么软件和硬件？
+* 硬件：[MacBook Air](http://www.apple.com/macbookair/) + [Dell 显示器](http://accessories.ap.dell.com/sna/category.aspx?c=cn&category_id=4009&cs=cngen1&l=zh&s=bsd&~ck=mn)
 * 软件：[Photoshop](http://www.photoshop.com/), [NetBeans](http://netbeans.org), [iTerm](http://iterm.sourceforge.net/) 是最常用的了。
