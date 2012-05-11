@@ -5,8 +5,6 @@ author: Neo Zhang
 author-weibo: neozhang
 ---
 
-![沈一鸣](/images/05112012/shenyiming.jpeg)
-
 沈一鸣， Leica 中文摄影杂志创始人，良品杂志创始人，iWeekly创始人，四叶新媒体联合创始人，85年生。或许，你更熟悉的是他“[且听枫吟](http://weibo.com/fotomag)”的ID。下面是盒外对一鸣的简短邮件采访。
  
 #### 你是怎样得到应用的设计灵感的？
